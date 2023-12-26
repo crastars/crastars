@@ -12,11 +12,11 @@ I am a Software Engineer dedicated to solving real-world problems. I am passiona
 
 # 🚀 My Experience
 - **Leadership Roles**: Managed 5+ societies, organized events for 1k+ attendees, contributed to online communities with 500k+ members!
-- **Startup Founder**: Actively involved in a personal startup in Fashion and AdTech💡
+- **Startup Founder**: Actively involved in a personal startup in Fashion and AdTech 💡
 - **Event Organizer**: Bringing a 2024 February Hackathon to life (for the second time!) at UofT 💻
 - **Current Learning**: Currently working towards PM certifications and my personal website ✨
 
-🤝 **Let's Connect**
+# 🤝 Let's Connect
 ⭐ I enjoy collabs and sharing experiences. If you have an exciting project or just want to chat, don't hesitate to reach out!
  
 <br/>
