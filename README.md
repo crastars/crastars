@@ -12,7 +12,7 @@ I am a Software Engineer dedicated to solving real-world problems. I am passiona
 
 # 🚀 My Experience
 - **Leadership Roles**: Managed 5+ student orgs, held events for 1k+ attendees, contributed to communities with 500k+ members!
-- **Ambitious Projects**: Actively involved in app development for the City of Toronto. Previously, a startup Co-Founder in Fash- & AdTech💡
+- **Ambitious Projects**: Actively involved in app development for the City of Toronto. Previously, a startup Co-Founder in AdTech💡
 - **Event Organizer**: Brought a 350-attendee Hackathon to life at UofT in 2023 and 2024 💻
 - **Current Learning**: Currently working towards PM certifications, case studies with a sprinkle of data analytics, and my personal website ✨
 
