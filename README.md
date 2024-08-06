@@ -1,8 +1,8 @@
 <h1 align="center"> Hey there! 👋 </h1> 
 
 <div align="center">
-  My name is <b>Carina!</b> 👩🏻‍💻 
-I am a Software Developer dedicated to solving real-world problems. I'm passionate about sustainability in Fashion, aiming to reshape businesses for the better.
+  I'm <b>Carina!</b> 👩🏻‍💻 
+A Software Developer & Tech PM dedicated to solving real-world problems. I'm passionate about sustainability in Fashion, aiming to reshape businesses for the better.
   <br/>
   <br/>
 </div>
