@@ -2,7 +2,7 @@
 
 <div align="center">
   I'm <b>Carina!</b> 👩🏻‍💻 
-A Software Developer & Tech PM dedicated to solving real-world problems. I'm driven by sustainability in the fashion industry, aiming to reshape businesses for the better.
+A Software Developer & Tech PM dedicated to solving real-world problems. I'm driven by sustainability in the fashion industry, aiming to reshape businesses for the better. 
   <br/>
   <br/>
 </div>
