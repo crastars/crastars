@@ -15,8 +15,8 @@ A Software Developer & Tech PM dedicated to solving real-world problems. I'm dri
 - **Ambitious Projects**: Actively involved in app development for the City of Toronto. Prev., a startup Co-Founder in AdTech💡
 - **Event Organizer**: Brought a 350-attendee Hackathon to life at UofT in 2023 and 2024 💻
 - **Current Learning**: Working towards PM certifications, case studies with a sprinkle of data analytics, and my portfolio site✨ -->
-
-# Let's Connect
+Hi, I'm Carina! experienced in product management & marketing, data analytics | UofT Math, CS and Business
+**Let's Connect**
 ⭐ If you have an exciting project or just want to chat, don't hesitate to reach out!
  
 <br/>
