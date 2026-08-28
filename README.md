@@ -1,5 +1,5 @@
 
-# Hi, I'm Carina ˗ˏˋ ★ ˎˊ˗
+# Hi, I'm Carina  ˗ˏˋ ★ ˎˊ˗
 ⭐ experienced in data analytics, product management & marketing, CSM | UofT Math, CS and Business
 # Let's Connect
 ⭐ if you know how to build great products or make products great, don't hesitate to reach out!
