@@ -22,13 +22,13 @@ A Software Developer & Tech PM dedicated to solving real-world problems. I'm dri
  
 <br/>
 <div align="center">
-  Contact Me c:
+  find me˙⋆✮⋆˚࿔
   <br/>
 </div>
 
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crastars/)
-[![image](https://img.shields.io/badge/EMail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:carina.rastarhuyeva@utoronto.ca)
+[![image](https://img.shields.io/badge/EMail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:carina.rastarhuyeva@gmail.com)
 
 </div>
