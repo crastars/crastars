@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there! 👋 </h1> 
+<!-- <h1 align="center"> Hey there! 👋 </h1> 
 
 <div align="center">
   I'm <b>Carina!</b> 👩🏻‍💻 
@@ -14,10 +14,10 @@ A Software Developer & Tech PM dedicated to solving real-world problems. I'm dri
 - **Leadership Roles**: Managed 5+ student orgs, held events for 1k+ attendees, contributed to communities with 500k+ members!
 - **Ambitious Projects**: Actively involved in app development for the City of Toronto. Prev., a startup Co-Founder in AdTech💡
 - **Event Organizer**: Brought a 350-attendee Hackathon to life at UofT in 2023 and 2024 💻
-- **Current Learning**: Working towards PM certifications, case studies with a sprinkle of data analytics, and my portfolio site✨
+- **Current Learning**: Working towards PM certifications, case studies with a sprinkle of data analytics, and my portfolio site✨ -->
 
-# 🤝 Let's Connect
-⭐ I enjoy collabs and sharing experiences. If you have an exciting project or just want to chat, don't hesitate to reach out!
+# Let's Connect
+⭐ If you have an exciting project or just want to chat, don't hesitate to reach out!
  
 <br/>
 <div align="center">
