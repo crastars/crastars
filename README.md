@@ -17,7 +17,7 @@ A Software Developer & Tech PM dedicated to solving real-world problems. I'm dri
 - **Current Learning**: Working towards PM certifications, case studies with a sprinkle of data analytics, and my portfolio site✨ -->
 # Hi, I'm Carina! 
 ⭐ experienced in data analytics, product management & marketing, CSM | UofT Math, CS and Business
-**Let's Connect**
+# Let's Connect
 ⭐ if you know how to build great products or make products great, don't hesitate to reach out!
  
 <br/>
