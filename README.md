@@ -16,7 +16,7 @@ A Software Developer & Tech PM dedicated to solving real-world problems. I'm dri
 - **Event Organizer**: Brought a 350-attendee Hackathon to life at UofT in 2023 and 2024 💻
 - **Current Learning**: Working towards PM certifications, case studies with a sprinkle of data analytics, and my portfolio site✨ -->
 # Hi, I'm Carina! 
-⭐ experienced in product management & marketing, data analytics | UofT Math, CS and Business
+⭐ experienced in data analytics, product management & marketing, CSM | UofT Math, CS and Business
 **Let's Connect**
 ⭐ if you know how to build great products or make products great, don't hesitate to reach out!
  
